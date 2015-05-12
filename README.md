@@ -14,3 +14,4 @@ I have this set up as a bash alias:
 
 * Bootstrap 3.3
 * AngularJS 1.3
+* LiveReload snippet
