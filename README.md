@@ -5,13 +5,11 @@ I find myself frequently wanting to spawn up a crazy lightweight AngularJS set u
 ### Usage
 
 1. `git clone git@github.com:mrjamesriley/angular-playground-light.git`
-2. Get playing...
+2. `http-server`
+3. Get playing at `localhost:8080`
 
-I have this set up as a bash alias:
-`alias ap='git clone "git@github.com:mrjamesriley/angular-playground-light.git"; cd angular-playground-light'`
-
-### Features
+### Features
 
 * Bootstrap 3.3
-* AngularJS 1.3
+* AngularJS 1.6.4
 * LiveReload snippet
